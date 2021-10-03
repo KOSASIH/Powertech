@@ -3,5 +3,6 @@
     "config_version": 20210101,
     "name": "Powerwallet",
     "location": "SG",
-    "deployment_model": "LOCAL"
+    "deployment_model": "LOCAL",
+    "environment": "production"
 }
