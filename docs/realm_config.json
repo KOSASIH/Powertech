@@ -1,8 +1,8 @@
 {
-    "app_id": "powertech-exvka",
+    "app_id": "application-0-zwwjw",
     "config_version": 20210101,
-    "name": "Powertech",
+    "name": "Application-0",
     "location": "SG",
     "deployment_model": "LOCAL",
-    "environment": "development"
+    "environment": "production"
 }
