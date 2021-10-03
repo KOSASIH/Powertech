@@ -1,8 +1,7 @@
 {
-    "app_id": "application-0-zwwjw",
+    "app_id": "powerwallet-klebk",
     "config_version": 20210101,
-    "name": "Application-0",
+    "name": "Powerwallet",
     "location": "SG",
-    "deployment_model": "LOCAL",
-    "environment": "production"
+    "deployment_model": "LOCAL"
 }
