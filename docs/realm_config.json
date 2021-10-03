@@ -4,5 +4,5 @@
     "name": "Powertech",
     "location": "SG",
     "deployment_model": "LOCAL",
-    "environment": "production"
+    "environment": "development"
 }
