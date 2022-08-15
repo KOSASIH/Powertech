@@ -1,8 +1,9 @@
 {
-    "app_id": "powerwallet-klebk",
+    "app_id": "powertech-exvka",
     "config_version": 20210101,
-    "name": "Powerwallet",
+    "name": "Powertech",
     "location": "SG",
+    "provider_region": "aws-ap-southeast-1",
     "deployment_model": "LOCAL",
     "environment": "production"
 }
